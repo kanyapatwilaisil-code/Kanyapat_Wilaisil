@@ -1,0 +1,78 @@
+============================================================
+VALIDATION THRESHOLD ANALYSIS
+============================================================
+Rows/windows: 189
+Subjects/groups: 13
+
+Labels:
+label
+PD    99
+HC    90
+
+============================================================
+1) WINDOW-LEVEL THRESHOLD
+============================================================
+ROC-AUC: 0.9337
+
+Best window threshold:
+Threshold          : 0.5158
+Balanced accuracy  : 0.9177
+Accuracy            : 0.9153
+Sensitivity         : 0.8687
+Specificity         : 0.9667
+Precision           : 0.9663
+F1                  : 0.9149
+
+Confusion matrix:
+TN=87 FP=3 FN=13 TP=86
+
+============================================================
+2) SUBJECT-LEVEL THRESHOLD
+============================================================
+Subjects: 13
+ROC-AUC: 1.0000
+
+Best SUBJECT threshold:
+Threshold          : 0.4067
+Balanced accuracy  : 1.0000
+Accuracy            : 1.0000
+Sensitivity         : 1.0000
+Specificity         : 1.0000
+Precision           : 1.0000
+F1                  : 1.0000
+
+Confusion matrix:
+TN=6 FP=0 FN=0 TP=7
+
+============================================================
+VALIDATION SUBJECT SCORES
+============================================================
+          group_id true_label prediction    score  n_windows
+    DNE::dne1_s011         HC         HC 0.051734         10
+    DNE::dne1_s012         HC         HC 0.066426         11
+    DNE::dne2_s007         PD         PD 0.999376         10
+    DNE::dne2_s059         PD         PD 0.998874          1
+    DNE::dne2_s075         PD         PD 0.999822         13
+    DNE::dne2_s090         HC         HC 0.114995          5
+SIDE::001_PD_02_SV         PD         PD 0.920164         22
+SIDE::003_PD_02_MD         PD         PD 0.406683         10
+SIDE::005_PD_01_MD         PD         PD 0.689297         22
+   SIDE::PD_SV2_04         PD         PD 0.999750         21
+        SIDE::S002         HC         HC 0.382888         21
+        SIDE::S006         HC         HC 0.330319         26
+        SIDE::S015         HC         HC 0.287421         17
+
+============================================================
+RECOMMENDED THRESHOLD
+============================================================
+0.4067
+
+Use this SUBJECT-level threshold for the application after TEST evaluation.
+
+Saved:
+training_results/augmented_f3_tcn_v4/validation_threshold_results.csv
+training_results/augmented_f3_tcn_v4/validation_subject_scores.csv
+training_results/augmented_f3_tcn_v4/validation_threshold_summary.csv
+training_results/augmented_f3_tcn_v4/validation_window_metrics.png
+training_results/augmented_f3_tcn_v4/validation_threshold_report.txt
+training_results/augmented_f3_tcn_v4/validation_window_metrics.png

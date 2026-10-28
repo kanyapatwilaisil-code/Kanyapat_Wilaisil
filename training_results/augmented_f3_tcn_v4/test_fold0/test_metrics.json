@@ -1,0 +1,48 @@
+{
+  "outer_fold": 0,
+  "model": "tcn",
+  "feature_set": "F3",
+  "threshold": 0.5,
+  "overall": {
+    "n": 312,
+    "accuracy": 0.7788461538461539,
+    "balanced_accuracy": 0.7983516483516484,
+    "sensitivity": 0.6813186813186813,
+    "specificity": 0.9153846153846154,
+    "tp": 124,
+    "tn": 119,
+    "fp": 11,
+    "fn": 58,
+    "threshold": 0.5
+  },
+  "by_source": {
+    "DNE": {
+      "n": 134,
+      "accuracy": 0.7014925373134329,
+      "balanced_accuracy": 0.7333333333333334,
+      "sensitivity": 0.4666666666666667,
+      "specificity": 1.0,
+      "tp": 35,
+      "tn": 59,
+      "fp": 0,
+      "fn": 40,
+      "threshold": 0.5
+    },
+    "SIDE_TEST": {
+      "n": 178,
+      "accuracy": 0.8370786516853933,
+      "balanced_accuracy": 0.8384230617348953,
+      "sensitivity": 0.8317757009345794,
+      "specificity": 0.8450704225352113,
+      "tp": 89,
+      "tn": 60,
+      "fp": 11,
+      "fn": 18,
+      "threshold": 0.5
+    }
+  },
+  "label_counts": {
+    "0": 130,
+    "1": 182
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "outer_fold": 0,
+  "heldout_dne_test_groups": [
+    "DNE::dne1_s010",
+    "DNE::dne1_s017",
+    "DNE::dne1_s018",
+    "DNE::dne1_s019",
+    "DNE::dne1_s020",
+    "DNE::dne2_s004",
+    "DNE::dne2_s005",
+    "DNE::dne2_s034",
+    "DNE::dne2_s036",
+    "DNE::dne2_s048",
+    "DNE::dne2_s054",
+    "DNE::dne2_s083"
+  ],
+  "heldout_dne_rows_removed": 63,
+  "dne_manifest_rows": 314,
+  "dne_training_pool_rows": 251,
+  "side_training_rows": 35
+}

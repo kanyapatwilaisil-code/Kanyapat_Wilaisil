@@ -1,0 +1,11 @@
+{
+  "model": "tcn",
+  "feature_set": "F3",
+  "params": {
+    "width": 64
+  },
+  "seed": 42,
+  "threshold": 0.5,
+  "score_kind": "uncalibrated_probability",
+  "best_epoch": 1
+}

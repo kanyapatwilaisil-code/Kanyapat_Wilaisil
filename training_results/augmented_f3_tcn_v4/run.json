@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "model": "tcn",
+  "feature_set": "F3",
+  "width": 64,
+  "training_seconds": 10.935546958004124,
+  "best_epoch": 1,
+  "validation_clip_balanced_accuracy": 0.9583333333333333,
+  "dne_manifest": "/Users/grace/Desktop/PD_ML/experiments_v2/artifacts/runs/20260929T115842_DNE_full_958574/report_assets/data_audit/skeleton_manifest.csv",
+  "dne_splits": "/Users/grace/Desktop/PD_ML/experiments_v2/artifacts/runs/20260929T115842_DNE_full_958574/splits.json",
+  "outer_fold": 0,
+  "heldout_dne_rows_removed": 63,
+  "side_train_root": "/Users/grace/Desktop/PD_ML/experiments_v2/side_pose",
+  "original_model_untouched": true
+}

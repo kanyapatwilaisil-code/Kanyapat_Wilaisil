@@ -1,0 +1,31 @@
+{
+  "audit_dir": "/home/patipat/Desktop/Project_CS68/PD_ML/experiments_v2/artifacts/audit/5d0a3b72ef17fd08",
+  "protocol": {
+    "seed": 42,
+    "hz": 30,
+    "window": 45,
+    "stride": 22,
+    "max_gap_s": 0.1,
+    "max_missing": 0.2,
+    "smooth_window": 7,
+    "smooth_poly": 2,
+    "visibility": 0.5,
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "epochs": 60,
+    "patience": 10,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "bootstrap": 2000,
+    "threads": 2
+  },
+  "feature_dir": "/home/patipat/Desktop/Project_CS68/PD_ML/experiments_v2/artifacts/features/369e9799beee6697",
+  "split_dir": "/home/patipat/Desktop/Project_CS68/PD_ML/experiments_v2/artifacts/splits/82b669e87fa8411e",
+  "run_dir": "/home/patipat/Desktop/Project_CS68/PD_ML/experiments_v2/artifacts/runs/20260928T213234_SMOKE_73c1e2",
+  "bundle_dir": "/home/patipat/Desktop/Project_CS68/PD_ML/experiments_v2/artifacts/final_models/20260928T213426_SMOKE_bundle_e87c4a",
+  "external_dir": null,
+  "report_dir": "/home/patipat/Desktop/Project_CS68/PD_ML/experiments_v2/artifacts/runs/20260928T213234_SMOKE_73c1e2/report",
+  "report_assets": "/home/patipat/Desktop/Project_CS68/PD_ML/experiments_v2/artifacts/runs/20260928T213234_SMOKE_73c1e2/report_assets",
+  "report_archive": "/home/patipat/Desktop/Project_CS68/PD_ML/experiments_v2/artifacts/runs/20260928T213234_SMOKE_73c1e2/report_assets.zip",
+  "video_inventory": "/home/patipat/Desktop/Project_CS68/PD_ML/experiments_v2/artifacts/external_inventory/inventory.csv"
+}

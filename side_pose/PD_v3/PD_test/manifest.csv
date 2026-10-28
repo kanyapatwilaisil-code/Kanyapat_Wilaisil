@@ -1,0 +1,6 @@
+clip,video_path,subject,label,group,view,status,pose_file
+006_PD_02_ML.mp4,/Users/grace/desktop/PD_ML/Video_parkinson_gait/posePD_test/006_PD_02_ML.mp4,006_PD_02_ML,1,PD,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/PD_v3/PD_test/006_PD_02_ML/pose.npz
+007_PD_01_MD.mp4,/Users/grace/desktop/PD_ML/Video_parkinson_gait/posePD_test/007_PD_01_MD.mp4,007_PD_01_MD,1,PD,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/PD_v3/PD_test/007_PD_01_MD/pose.npz
+PD_SV1_07.mp4,/Users/grace/desktop/PD_ML/Video_parkinson_gait/posePD_test/PD_SV1_07.mp4,PD,1,PD,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/PD_v3/PD_test/PD_SV1_07/pose.npz
+PD_SV2_01.mp4,/Users/grace/desktop/PD_ML/Video_parkinson_gait/posePD_test/PD_SV2_01.mp4,PD,1,PD,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/PD_v3/PD_test/PD_SV2_01/pose.npz
+PD_SV3_03.mp4,/Users/grace/desktop/PD_ML/Video_parkinson_gait/posePD_test/PD_SV3_03.mp4,PD,1,PD,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/PD_v3/PD_test/PD_SV3_03/pose.npz

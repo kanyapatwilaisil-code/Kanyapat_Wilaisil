@@ -1,0 +1,7 @@
+{
+  "model": "tcn",
+  "channels": 22,
+  "width": 64,
+  "causal": false,
+  "receptive_field": 61
+}

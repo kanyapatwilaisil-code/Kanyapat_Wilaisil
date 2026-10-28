@@ -1,0 +1,31 @@
+{
+  "audit_dir": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/audit/c72bb020aee5af0e",
+  "protocol": {
+    "seed": 42,
+    "hz": 30,
+    "window": 45,
+    "stride": 22,
+    "max_gap_s": 0.1,
+    "max_missing": 0.2,
+    "smooth_window": 7,
+    "smooth_poly": 2,
+    "visibility": 0.5,
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "epochs": 60,
+    "patience": 10,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "bootstrap": 2000,
+    "threads": 2
+  },
+  "feature_dir": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/features/dc6d4e24bda90fa0",
+  "split_dir": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/splits/82b669e87fa8411e",
+  "run_dir": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/runs/20260929T115842_DNE_full_958574",
+  "bundle_dir": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/final_models/20260930T032616_final_bundle_02f2dc",
+  "external_dir": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/external/20260930T033358_external_9ee628",
+  "report_dir": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/runs/20260929T115842_DNE_full_958574/report",
+  "report_assets": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/runs/20260929T115842_DNE_full_958574/report_assets",
+  "report_archive": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/runs/20260929T115842_DNE_full_958574/report_assets.zip",
+  "video_inventory": "/home/cis/Desktop/PD_ML/experiments_v2/artifacts/external_inventory/inventory.csv"
+}

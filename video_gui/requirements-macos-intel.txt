@@ -1,0 +1,5 @@
+# PyTorch 2.2.2 provides macOS x86_64 wheels. Use native x86_64 Python 3.11.
+-r requirements.txt
+torch==2.2.2
+numpy>=1.26,<2
+mediapipe==0.10.21

@@ -1,0 +1,5 @@
+{
+  "stop_reason": "early_stop",
+  "device": "cpu",
+  "best_epoch": 1
+}

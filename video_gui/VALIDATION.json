@@ -1,0 +1,19 @@
+{
+  "test_environment": "Linux (not macOS)",
+  "automated_tests_passed": 7,
+  "original_reference_max_absolute_error": 1.2505552149377763e-12,
+  "real_video_end_to_end": {
+    "completed": true,
+    "export_frames": 207,
+    "export_fps": 30,
+    "audio": false,
+    "valid_windows": 8
+  },
+  "gui": {
+    "offscreen_open": true,
+    "playback": true,
+    "seek_3_seconds": true,
+    "visual_inspection": true
+  },
+  "macos_native_tested": false
+}

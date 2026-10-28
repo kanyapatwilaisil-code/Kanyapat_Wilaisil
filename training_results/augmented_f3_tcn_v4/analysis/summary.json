@@ -1,0 +1,79 @@
+{
+  "run": "/Users/grace/Desktop/PD_ML/experiments_v2/training_results/augmented_f3_tcn_v4",
+  "model": "/Users/grace/Desktop/PD_ML/experiments_v2/training_results/augmented_f3_tcn_v4/model",
+  "test_predictions": "/Users/grace/Desktop/PD_ML/experiments_v2/training_results/augmented_f3_tcn_v4/test_fold0/test_predictions.csv",
+  "train": {
+    "n": 879,
+    "accuracy": 0.8430034129692833,
+    "balanced_accuracy": 0.8462907455976021,
+    "sensitivity": 0.8004246284501062,
+    "specificity": 0.8921568627450981,
+    "tn": 364,
+    "fp": 44,
+    "fn": 94,
+    "tp": 377
+  },
+  "validation": {
+    "n": 189,
+    "accuracy": 0.9047619047619048,
+    "balanced_accuracy": 0.9065656565656566,
+    "sensitivity": 0.8686868686868687,
+    "specificity": 0.9444444444444444,
+    "tn": 85,
+    "fp": 5,
+    "fn": 13,
+    "tp": 86
+  },
+  "test": {
+    "n": 312,
+    "accuracy": 0.7788461538461539,
+    "balanced_accuracy": 0.7983516483516484,
+    "sensitivity": 0.6813186813186813,
+    "specificity": 0.9153846153846154,
+    "tn": 119,
+    "fp": 11,
+    "fn": 58,
+    "tp": 124
+  },
+  "test_by_source": {
+    "DNE": {
+      "n": 134,
+      "accuracy": 0.7014925373134329,
+      "balanced_accuracy": 0.7333333333333334,
+      "sensitivity": 0.4666666666666667,
+      "specificity": 1.0,
+      "tn": 59,
+      "fp": 0,
+      "fn": 40,
+      "tp": 35
+    },
+    "SIDE_TEST": {
+      "n": 178,
+      "accuracy": 0.8370786516853933,
+      "balanced_accuracy": 0.8384230617348953,
+      "sensitivity": 0.8317757009345794,
+      "specificity": 0.8450704225352113,
+      "tn": 60,
+      "fp": 11,
+      "fn": 18,
+      "tp": 89
+    }
+  },
+  "test_subject_level": {
+    "n": 21,
+    "accuracy": 0.7619047619047619,
+    "balanced_accuracy": 0.7727272727272727,
+    "sensitivity": 0.5454545454545454,
+    "specificity": 1.0,
+    "tn": 10,
+    "fp": 0,
+    "fn": 5,
+    "tp": 6
+  },
+  "n_train_windows": 879,
+  "n_validation_windows": 189,
+  "n_test_windows": 312,
+  "n_train_subjects": 68,
+  "n_validation_subjects": 13,
+  "n_test_subjects": 21
+}
