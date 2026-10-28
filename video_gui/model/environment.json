@@ -1,0 +1,36 @@
+{
+  "python": "3.14.7",
+  "platform": "Linux-7.0.0-34-generic-x86_64-with-glibc2.43",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0",
+    "matplotlib": "3.11.2",
+    "mediapipe": "1.0.1",
+    "opencv-python": null,
+    "xgboost": "3.4.1",
+    "nbformat": "5.11.0",
+    "torch": "2.14.0",
+    "av": "18.1.0",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.3.0"
+  },
+  "timestamp_utc": "2026-09-30T03:26:16.424387+00:00",
+  "code_sha256": {
+    "pdml/__init__.py": "4dae4ac93c6c776650b7df07eb414a6240b6d0ae3414f596a5f282ca0d3a255d",
+    "pdml/common.py": "d7f234bb9bff536c6dec1710713b6af5ad461234c1fbb68103d6c332593b55be",
+    "pdml/data.py": "93d68351925527679440c5b469b77cfe76d5e0bd21b3ee635e14d7199beeea57",
+    "pdml/experiment.py": "741a0246af61bdda034abbdb748c75fe0b3ede3d30141ec20bc2d1841be99e48",
+    "pdml/export.py": "3cd8e7b9a9e5dcfa8062347a1b342858707e8bbe5fffbdc159261eb61691d0fb",
+    "pdml/features.py": "dfd7646009dd9101cd9ad7e38f5314a0d4a82312deda18d553d8a9e7aaf9415c",
+    "pdml/metrics.py": "cdd86da7233bf732d89355e60a74107a25fc2dc94d874535b851e46558f62772",
+    "pdml/models.py": "ccad209af2e9550b4b36c32cdc711ea4e48671c77f9dba643b8d22675f7c4d3d",
+    "pdml/protocol.py": "4a24c9055c0d370d466184ec278a027010db4a83fb8b5cdc04052fcf3386f488",
+    "pdml/reporting.py": "29a7f5d207db9242a8404b8e3a716b324987ad0bb93857c01108c7a030b73303",
+    "pdml/splits.py": "32f4f737618d310c69187991740770b109dec179bd52c6dd8203ad2c3e644a4e",
+    "pdml/video.py": "69c8b96c70d3e274671a3bfa943652a2190105f7d1c1ac632f9a67945330d729",
+    "pdml/workspace.py": "9b385deff17037e407d588707c8e0266f9cc6c85cc696626066f9ffa7f76154c"
+  }
+}

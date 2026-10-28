@@ -1,0 +1,10 @@
+# Use Python 3.11 on macOS. CPU inference; no CUDA, sklearn or joblib needed.
+numpy>=1.26,<3
+pandas>=2.1,<4
+scipy>=1.11,<2
+torch>=2.2,<3
+mediapipe>=0.10.18,<2
+av>=16,<19
+PySide6>=6.6,<7
+Pillow>=10.2,<13
+matplotlib>=3.8,<4

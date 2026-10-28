@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "hz": 30,
+  "window": 45,
+  "stride": 22,
+  "max_gap_s": 0.1,
+  "max_missing": 0.2,
+  "smooth_window": 7,
+  "smooth_poly": 2,
+  "visibility": 0.5,
+  "outer_folds": 5,
+  "inner_folds": 3,
+  "epochs": 60,
+  "patience": 10,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "bootstrap": 2000,
+  "threads": 2
+}

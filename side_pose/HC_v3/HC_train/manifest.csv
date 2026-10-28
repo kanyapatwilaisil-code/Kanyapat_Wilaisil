@@ -1,0 +1,16 @@
+clip,video_path,subject,label,group,view,status,pose_file
+S001.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S001.mp4,S001,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S001/pose.npz
+S002.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S002.mp4,S002,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S002/pose.npz
+S004.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S004.mp4,S004,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S004/pose.npz
+S005.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S005.mp4,S005,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S005/pose.npz
+S006.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S006.mp4,S006,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S006/pose.npz
+S015.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S015.mp4,S015,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S015/pose.npz
+S020.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S020.mp4,S020,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S020/pose.npz
+S022.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S022.mp4,S022,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S022/pose.npz
+S023.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S023.mp4,S023,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S023/pose.npz
+S025.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S025.mp4,S025,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S025/pose.npz
+S026.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S026.mp4,S026,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S026/pose.npz
+S027.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S027.mp4,S027,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S027/pose.npz
+S030.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S030.mp4,S030,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S030/pose.npz
+S031.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S031.mp4,S031,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S031/pose.npz
+S037.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_train/S037.mp4,S037,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_train/S037/pose.npz

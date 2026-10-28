@@ -1,0 +1,4 @@
+clip,video_path,subject,label,group,view,status,pose_file
+S033.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_untouched/S033.mp4,S033,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_untouched/S033/pose.npz
+S038.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_untouched/S038.mp4,S038,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_untouched/S038/pose.npz
+S041.mp4,/Users/grace/desktop/PD_ML/Video_normal_gait/poseHC_untouched/S041.mp4,S041,0,HC,side,ok,/Users/grace/desktop/PD_ML/experiments_v2/side_pose/HC_v3/HC_untouched/S041/pose.npz
